@@ -11,7 +11,7 @@ Cloud cost data is often:
 - difficult to interpret
 - not actionable for engineering teams
 
-Most organizations have visibility—but lack execution.
+Most organizations have visibility, but lack execution.
 
 ---
 
