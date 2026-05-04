@@ -54,15 +54,8 @@ The system translates cost into:
 ---
 
 ## 📁 Project Structure
-finops-cost-pipeline/
-├── data/ # Input data (mock CUR)
-├── outputs/ # Generated reports
-├── src/
-│ ├── pipeline.py # Core FinOps pipeline
-│ └── athena_cur_pull.py # Future AWS integration
-├── docs/ # Architecture & design docs
-├── requirements.txt
-└── README.md
+<img width="862" height="504" alt="image" src="https://github.com/user-attachments/assets/0f12a9de-7c53-457f-97f2-beb51362131b" />
+
 
 ---
 
