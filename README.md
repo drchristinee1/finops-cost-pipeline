@@ -1,7 +1,9 @@
 # FinOps Cost Pipeline
 
 A lightweight FinOps pipeline that transforms raw cloud cost data into actionable insights, signals, and execution tasks.
+## 🔗 Live Example
 
+See generated output: `outputs/finops_pipeline_output.csv`
 ---
 
 ## 🔍 Problem
